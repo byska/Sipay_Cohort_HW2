@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sipay_Cohort_HW2.WebApi", "Sipay_Cohort_HW2\Sipay_Cohort_HW2.WebApi.csproj", "{5E69F168-83CD-4A4F-B4D1-A470584DA569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sipay_Cohort_HW2.Business", "Sipay_Cohort_HW2.Business\Sipay_Cohort_HW2.Business.csproj", "{14B91129-75F0-4390-B742-D6D123F89F37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sipay_Cohort_HW2.DataAccess", "Sipay_Cohort_HW2.DataAccess\Sipay_Cohort_HW2.DataAccess.csproj", "{965F8B52-1215-4004-A9E3-11AD80E1C81F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sipay_Cohort_HW2.Entities", "Sipay_Cohort_HW2.Entities\Sipay_Cohort_HW2.Entities.csproj", "{9DB4FD39-DE38-4948-821D-F698C2321790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sipay_Cohort_HW2.Schema", "Sipay_Cohort_HW2.Schema\Sipay_Cohort_HW2.Schema.csproj", "{FBF809BE-F914-477B-9CD4-242214D2A4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E69F168-83CD-4A4F-B4D1-A470584DA569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E69F168-83CD-4A4F-B4D1-A470584DA569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E69F168-83CD-4A4F-B4D1-A470584DA569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E69F168-83CD-4A4F-B4D1-A470584DA569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B91129-75F0-4390-B742-D6D123F89F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B91129-75F0-4390-B742-D6D123F89F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B91129-75F0-4390-B742-D6D123F89F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B91129-75F0-4390-B742-D6D123F89F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965F8B52-1215-4004-A9E3-11AD80E1C81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965F8B52-1215-4004-A9E3-11AD80E1C81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965F8B52-1215-4004-A9E3-11AD80E1C81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965F8B52-1215-4004-A9E3-11AD80E1C81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB4FD39-DE38-4948-821D-F698C2321790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB4FD39-DE38-4948-821D-F698C2321790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB4FD39-DE38-4948-821D-F698C2321790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB4FD39-DE38-4948-821D-F698C2321790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF809BE-F914-477B-9CD4-242214D2A4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF809BE-F914-477B-9CD4-242214D2A4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF809BE-F914-477B-9CD4-242214D2A4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF809BE-F914-477B-9CD4-242214D2A4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2778106F-1F67-4159-B709-1C0CBF463BC1}
+	EndGlobalSection
+EndGlobal
